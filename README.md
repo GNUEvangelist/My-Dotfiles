@@ -1,2 +1,2 @@
-# My Dotfiles
-My dotfiles for vim, dwm, etc 
+# My config for neovim
+My config for neovim
