@@ -15,7 +15,4 @@ https://lukesmith.xyz/
 
 ![screenshoot](pic-full-201113-1446-22.png)
 
-# Hotkeys
 
-| hoja |dd   |
-|------|-----| 
